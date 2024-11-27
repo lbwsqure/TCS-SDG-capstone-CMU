@@ -1,0 +1,7 @@
+This folder contains the content related to Claude-3.5 LLM for Synthetic Data Generation 2 Different datasets: 
+1) Heart Diesase Classification Dataset
+2) Superstore Dataset
+
+Files:
+1) 2 Code files for implementation of two different datasets
+2) Excel sheets of generate data
