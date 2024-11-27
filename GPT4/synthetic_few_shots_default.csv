@@ -1,0 +1,51 @@
+age,sex,dataset,cp,trestbps,chol,fbs,restecg,thalch,exang,oldpeak,slope,ca,thal,num
+45,Male,Cleveland,non-anginal pain,130,220,FALSE,st-t abnormality,150,TRUE,1.2,flat,2,reversible defect,1
+45,Female,Cleveland,non-anginal pain,135,275,FALSE,normal,155,TRUE,2.1,flat,1,reversible defect,0
+56,Male,Cleveland,non-anginal pain,130,250,FALSE,normal,150,TRUE,1.2,flat,2,reversible defect,1
+55,Male,Cleveland,non-anginal pain,130,250,FALSE,normal,150,TRUE,2,flat,1,reversible defect,1
+55,Female,Cleveland,non-anginal pain,120,250,TRUE,normal,140,FALSE,1.2,flat,1,reversible defect,0
+72,Female,Cleveland,atypical angina,145,225,FALSE,normal,154,FALSE,1.2,flat,2,reversible defect,1
+45,Female,Cleveland,non-anginal pain,135,220,FALSE,normal,155,TRUE,2.1,flat,1,reversible defect,0
+55,Female,Cleveland,non-anginal pain,130,220,FALSE,normal,150,FALSE,1.2,flat,1,reversible defect,0
+55,Female,Cleveland,atypical angina,130,220,FALSE,normal,150,TRUE,2,flat,1,reversible defect,0
+56,Female,Cleveland,non-anginal pain,120,280,FALSE,normal,150,TRUE,2.1,flat,2,reversible defect,0
+58,Female,Cleveland,non-anginal pain,110,320,FALSE,normal,140,FALSE,2.1,flat,1,reversible defect,0
+45,Male,Cleveland,non-anginal pain,135,210,FALSE,normal,150,TRUE,1.3,flat,2,reversible defect,1
+45,Female,Cleveland,non-anginal pain,135,225,FALSE,normal,150,TRUE,1.5,flat,2,reversible defect,0
+56,Female,Cleveland,non-anginal pain,140,220,FALSE,st-t abnormality,160,TRUE,1.2,flat,2,reversible defect,1
+55,Female,Cleveland,non-anginal pain,130,275,FALSE,st-t abnormality,155,FALSE,1.2,flat,2,reversible defect,1
+55,Female,Cleveland,non-anginal pain,130,250,FALSE,normal,180,FALSE,1.2,downsloping,1,reversible defect,0
+55,Female,Cleveland,non-anginal pain,130,220,FALSE,normal,150,TRUE,2.5,flat,1,reversible defect,0
+56,Female,Cleveland,non-anginal pain,130,250,FALSE,normal,155,TRUE,2.1,flat,1,reversible defect,0
+52,Male,Cleveland,non-anginal pain,140,265,FALSE,normal,158,TRUE,1.2,flat,2,reversible defect,1
+52,Female,Cleveland,non-anginal pain,130,250,FALSE,normal,180,TRUE,2.5,flat,1,fixed defect,0
+45,Female,Cleveland,non-anginal pain,150,280,FALSE,normal,130,TRUE,2,flat,2,reversible defect,1
+45,Female,Cleveland,non-anginal pain,130,220,FALSE,normal,150,TRUE,1.2,flat,1,reversible defect,0
+52,Female,Cleveland,non-anginal pain,135,225,FALSE,st-t abnormality,150,TRUE,2.3,flat,1,reversible defect,0
+65,Female,Cleveland,non-anginal pain,130,220,FALSE,normal,150,TRUE,1.3,flat,2,reversible defect,1
+45,Female,Cleveland,non-anginal pain,135,250,FALSE,st-t abnormality,150,TRUE,2,flat,1,reversible defect,0
+45,Female,Cleveland,non-anginal pain,130,250,FALSE,normal,150,TRUE,2,flat,1,reversible defect,0
+52,Female,Cleveland,non-anginal pain,130,250,FALSE,normal,155,FALSE,2.3,flat,1,reversible defect,0
+45,Female,Cleveland,non-anginal pain,130,250,FALSE,normal,170,FALSE,2,upsloping,0,fixed defect,0
+50,Female,Cleveland,non-anginal pain,120,300,FALSE,normal,150,TRUE,2.3,flat,1,reversible defect,0
+55,Female,Cleveland,non-anginal pain,145,300,FALSE,normal,170,TRUE,2.1,flat,1,reversible defect,0
+52,Female,Cleveland,non-anginal pain,120,265,FALSE,normal,150,FALSE,1.2,flat,1,fixed defect,0
+72,Female,Cleveland,non-anginal pain,145,315,FALSE,st-t abnormality,125,TRUE,3.5,flat,2,reversible defect,1
+45,Female,Cleveland,non-anginal pain,120,245,FALSE,st-t abnormality,165,FALSE,1.2,upsloping,0,reversible defect,0
+55,Female,Cleveland,non-anginal pain,135,220,FALSE,st-t abnormality,150,TRUE,1.2,flat,2,reversible defect,0
+55,Female,Cleveland,non-anginal pain,140,250,FALSE,st-t abnormality,165,TRUE,2.3,flat,1,reversible defect,0
+54,Female,Cleveland,non-anginal pain,130,300,FALSE,normal,150,FALSE,1.5,flat,2,fixed defect,1
+45,Female,Cleveland,non-anginal pain,110,280,FALSE,st-t abnormality,150,TRUE,2,flat,1,reversible defect,0
+62,Female,Cleveland,atypical angina,130,245,TRUE,normal,140,FALSE,1.5,flat,2,reversible defect,1
+57,Female,Cleveland,non-anginal pain,145,275,TRUE,normal,125,FALSE,2.1,downsloping,1,reversible defect,0
+72,Female,Cleveland,non-anginal pain,155,260,FALSE,normal,120,TRUE,2.1,flat,2,reversible defect,1
+57,Male,Cleveland,non-anginal pain,135,275,TRUE,st-t abnormality,165,FALSE,1.2,flat,1,reversible defect,1
+45,Female,Cleveland,non-anginal pain,120,220,TRUE,normal,165,FALSE,1.2,upsloping,1,reversible defect,0
+55,Female,Cleveland,non-anginal pain,130,275,FALSE,normal,165,TRUE,2.1,flat,1,reversible defect,0
+52,Female,Cleveland,non-anginal pain,130,210,FALSE,normal,160,TRUE,1.2,flat,1,reversible defect,1
+55,Female,Cleveland,non-anginal pain,130,250,FALSE,normal,150,TRUE,1.2,flat,2,reversible defect,1
+45,Female,Cleveland,non-anginal pain,120,200,FALSE,normal,160,TRUE,1.2,flat,2,reversible defect,1
+45,Female,Cleveland,non-anginal pain,125,280,FALSE,st-t abnormality,145,TRUE,2.1,flat,1,reversible defect,0
+52,Female,Cleveland,non-anginal pain,120,220,FALSE,normal,150,FALSE,1.2,upsloping,0,normal,0
+52,Female,Cleveland,non-anginal pain,120,270,FALSE,normal,145,TRUE,1.2,flat,2,reversible defect,1
+55,Female,Cleveland,non-anginal pain,130,220,FALSE,normal,150,TRUE,1.5,flat,1,reversible defect,0
